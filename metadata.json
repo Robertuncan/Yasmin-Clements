@@ -1,0 +1,6 @@
+{
+  "name": "Yasmin Clements Chimney Services",
+  "description": "Clean Chimneys, Safer Homes. Professional chimney cleaning, sweeping, inspection, and repair services in Harrogate and London.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
